@@ -1,0 +1,52 @@
+header{
+    display: flex;
+    height: 50%;
+    width: 100%;
+    background-color: white;
+}
+
+.imagen{
+    width: 7%;
+}
+.botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.btn{
+    text-decoration: none;
+    color: #BF212E;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+}
+.fondo{
+    background: url(./Banner.png);
+    width: 100%;
+    height: 40rem;
+}
+
+.Titulo{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(154, 8, 190);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+
+.Parrafo{
+    text-decoration: none;
+    text-align: center;
+    padding: 80px;
+    color: #000000;
+    background-color: white; opacity: 0.8; 
+    border-radius: 2rem;
+    border-color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+}
+
+.botoncito{
+ text-align: center;
+}
